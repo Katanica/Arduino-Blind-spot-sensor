@@ -1,2 +1,5 @@
-# Arduino-Blind-spot-sensor
-Sensor preventing collisions in blind turns
+COMPONENTS USED: 
+  • Arduino Nano micro controller 
+  • AJ-SR04 / HC-SR04 distance sensor
+  • LED diode
+  • 220 Ohm resistor
